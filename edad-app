@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Page Title</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" media="screen" href="css/style.css" />
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet">
+    <script src="js/main.js"></script>
+</head>
+<body>
+
+    <!-- <div>
+        <h3>Suma de dos numeros</h3>
+       
+       Primer numero: <input type="text" id="num-1">
+       Segundo numero: <input type="text" id="num-2" name="hola">
+        <button onclick="myFunction3()" id="button">Sumar</button>
+        <p id="result"></p>
+    </div> -->
+
+    <div class="contenedor">
+        <h1>Hola Persona! Quien eres? : )</h1>
+
+       Nombre: <input type="text" id="nombre">
+       Edad:   <input type="text" id="edad" name="edad">
+
+        <button onclick="myFunction2()" id="luis">P.L.U.R</button>
+
+        <!-- <button onclick="myFunction()">Click me</button> -->
+
+        <p id="demo"></p>
+        <p id="add-name"></p>
+    </div>
+    
+</body>
+</html>
