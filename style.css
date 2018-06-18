@@ -1,0 +1,19 @@
+body{
+    background-color: aquamarine
+}
+
+.contenedor{
+    background-color: plum;
+    padding: 8%;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    display: inline-block;
+    margin-top: 3%;
+    margin-left: 3%;
+    border-radius: 3%;
+}
+
+.contenedor h1{
+    font-size: 3rem;
+    font-weight: 300;
+}
